@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DominicLins
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C, C++, HTML, CSS, JavaScript.
+- 🌱 I’m currently learning, HTML, CSS, JavaScript.
 - 📫 How to reach me dominiclnsdev@gmail.com
 
 <!---
